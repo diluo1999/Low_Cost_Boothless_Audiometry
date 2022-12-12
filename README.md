@@ -21,13 +21,13 @@ TabSINT, open-source platform for hearing assessments and general purpose questi
 - MacKenzie Guynn
 - Zhanel Nugmanova
 
-### Dartmouth Hitchcock Medical Center Doctors and Researchers
+### [Dartmouth Hitchcock Medical Center](https://www.dartmouth-hitchcock.org/) Doctors and Researchers
 - Dr. Buckey
 - Dr. Saunders
 - Dr. Niemczak
 - Torri Lee
 
-### Creare LLC Engineers 
+### [Creare LLC](https://www.creare.com/) Engineers 
 - Dr. Odile Clavier, a principal engineer working on technology to lower the cost of healthcare
 - Eric Yuan, a research engineer who has worked with the Tympan
 - Blaine Ayotte, a software engineer who has worked with TabSINT
