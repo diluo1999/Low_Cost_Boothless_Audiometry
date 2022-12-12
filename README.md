@@ -1,6 +1,8 @@
-# Low_Cost_Boothless_Audiometry
+# Low Cost Boothless Audiometry
 
 ## Description
+
+Boothless audiometry is a technology that promises to increase access to hearing examinations in low-income regions. However, there is a need for the technology to be cheaper, more informative, reliable, and easy-to-use to aid audiologists in making more accurate and informed hearing loss diagnoses.
 
 See [Written Proposal](Written%20Proposal.pdf) and [Proposal Presentation](Proposal%20Oral%20Presentation.pdf) for detailed description of the project.
 
